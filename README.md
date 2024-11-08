@@ -1,7 +1,5 @@
 #### This is an identical copy of [Aman's design of this homework](https://github.com/madaan/gcn_assignment)
 
-# GCN Assignment for 11441/11741 (Fall 2024)
-
 ## Getting started
 
 - Unzip the data from `data.zip.`
